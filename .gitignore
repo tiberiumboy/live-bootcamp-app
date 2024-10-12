@@ -1,3 +1,5 @@
 /target
 .idea
 /bin
+# omit Mac file index
+.DS_Store
